@@ -1,0 +1,346 @@
+[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:04.17,0:00:05.75,Default,,0,0,0,,Come on, Nat!
+Dialogue: 0,0:00:05.75,0:00:07.50,Default,,0,0,0,,Why are you following me?!
+Dialogue: 0,0:00:07.50,0:00:08.88,Default,,0,0,0,,Shut up!
+Dialogue: 0,0:00:08.88,0:00:11.50,Default,,0,0,0,,I'm responsible for the area just above yours, Riko!
+Dialogue: 0,0:00:11.50,0:00:13.67,Default,,0,0,0,,Oh, that's right...
+Dialogue: 0,0:00:18.38,0:00:21.67,Default,,0,0,0,,Well, at least help me carry the Relics\Non the way home, then.
+Dialogue: 0,0:00:21.67,0:00:23.08,Default,,0,0,0,,Why?!
+Dialogue: 0,0:00:23.67,0:00:29.17,Default,,0,0,0,,Well, today my haul needs to receive\Nthe highest valuation out of all the Red Whistles!
+Dialogue: 0,0:00:29.42,0:00:30.67,Default,,0,0,0,,Doubt that'll happen.
+Dialogue: 0,0:00:32.29,0:00:34.92,Default,,0,0,0,,This area's mostly been searched already...
+Dialogue: 0,0:00:34.92,0:00:37.54,Default,,0,0,0,,and there's not much anything rare left.
+Dialogue: 0,0:00:38.00,0:00:39.79,Default,,0,0,0,,That's why it's gonna come down to quantity!
+Dialogue: 0,0:00:40.42,0:00:42.04,Default,,0,0,0,,You okay with that?
+Dialogue: 0,0:00:44.21,0:00:47.79,Default,,0,0,0,,How about fudging the numbers...\Nwith that thing you swiped the other day?
+Dialogue: 0,0:00:47.92,0:00:49.33,Default,,0,0,0,,The Star Compass?
+Dialogue: 0,0:00:49.67,0:00:51.13,Default,,0,0,0,,I can't do that!
+Dialogue: 0,0:00:51.13,0:00:54.92,Default,,0,0,0,,It guides its user toward the truth of the Abyss, after all.
+Dialogue: 0,0:00:55.21,0:00:58.21,Default,,0,0,0,,Besides... if it's found out I was hiding it...
+Dialogue: 0,0:00:58.21,0:01:00.42,Default,,0,0,0,,I'll get a worse punishment\Nthis time than being strung up naked.
+Dialogue: 0,0:01:01.29,0:01:03.83,Default,,0,0,0,,Talk about traumatizing a little girl!
+Dialogue: 0,0:01:03.83,0:01:05.54,Default,,0,0,0,,Well, be careful.
+Dialogue: 0,0:01:07.29,0:01:09.00,Default,,0,0,0,,Ah, the big gondola.
+Dialogue: 0,0:01:09.25,0:01:10.04,Default,,0,0,0,,Huh?!
+Dialogue: 0,0:01:10.04,0:01:11.17,Default,,0,0,0,,Wow!
+Dialogue: 0,0:01:11.17,0:01:14.58,Default,,0,0,0,,Nat, look at that! It's the 600-meter group!
+Dialogue: 0,0:01:14.58,0:01:15.88,Default,,0,0,0,,I know, okay?
+Dialogue: 0,0:01:18.25,0:01:20.88,Default,,0,0,0,,Ah, it already went out of sight...
+Dialogue: 0,0:01:21.04,0:01:23.63,Default,,0,0,0,,Lucky them... I wish I could ride it.
+Dialogue: 0,0:01:23.96,0:01:26.83,Default,,0,0,0,,Say... isn't it kinda quiet today?
+Dialogue: 0,0:01:27.42,0:01:29.83,Default,,0,0,0,,Probably 'cause there aren't any hammerbeaks around...
+Dialogue: 0,0:01:29.83,0:01:31.79,Default,,0,0,0,,I can't hear them singing at all, anyway.
+Dialogue: 0,0:01:32.17,0:01:33.50,Default,,0,0,0,,You're right.
+Dialogue: 0,0:01:33.50,0:01:35.38,Default,,0,0,0,,Well, should make it easier to work.
+Dialogue: 0,0:01:35.38,0:01:38.21,Default,,0,0,0,,Those guys take anything shiny\Nback to their nests, after all.
+Dialogue: 0,0:01:39.75,0:01:42.42,Default,,0,0,0,,Wait! Why are you going on ahead of me?!
+Dialogue: 0,0:01:42.42,0:01:44.29,Default,,0,0,0,,I'm the one who takes the lead!
+Dialogue: 0,0:01:44.29,0:01:45.71,Default,,0,0,0,,Huh?!
+Dialogue: 0,0:01:51.04,0:01:54.46,Default,,0,0,0,,I'm gonna go all out excavating today!
+Dialogue: 0,0:01:55.83,0:02:00.63,Default,,0,0,0,,I'll get so much stuff Leader will be at a loss for words!
+Dialogue: 0,0:02:04.29,0:02:07.33,Default,,0,0,0,,Alright, let's do this!\NI'm gonna get the number one assessment!
+Dialogue: 0,0:02:12.00,0:02:13.54,Default,,0,0,0,,Hup!
+Dialogue: 0,0:02:13.79,0:02:15.00,Default,,0,0,0,,There's one!
+Dialogue: 0,0:02:17.42,0:02:18.25,Default,,0,0,0,,Two!
+Dialogue: 0,0:02:22.92,0:02:23.75,Default,,0,0,0,,Three!
+Dialogue: 0,0:02:23.75,0:02:26.54,Default,,0,0,0,,Four...
+Dialogue: 0,0:02:26.83,0:02:28.50,Default,,0,0,0,,Five!
+Dialogue: 0,0:02:34.25,0:02:36.04,Default,,0,0,0,,A skeleton of someone in prayer.
+Dialogue: 0,0:02:36.38,0:02:39.29,Default,,0,0,0,,First time I've seen one in quite a while,\Nso it came as a shock.
+Dialogue: 0,0:02:39.54,0:02:41.46,Default,,0,0,0,,Sorry for disturbing you.
+Dialogue: 0,0:02:42.96,0:02:45.38,Default,,0,0,0,,I can do it if I just try.
+Dialogue: 0,0:02:46.33,0:02:50.50,Default,,0,0,0,,At this rate, it's only a matter of time\Nuntil I'm bumped up to the 600-meter group.
+Dialogue: 0,0:02:52.88,0:02:54.17,Default,,0,0,0,,Heavy...
+Dialogue: 0,0:02:54.38,0:02:58.13,Default,,0,0,0,,Hey, Nat! Help me out!
+Dialogue: 0,0:02:59.71,0:03:02.75,Default,,0,0,0,,This is seriously heavy. Where'd he run off to...?
+Dialogue: 0,0:03:03.54,0:03:05.50,Default,,0,0,0,,Damn it, Nat.
+Dialogue: 0,0:03:13.08,0:03:14.42,Default,,0,0,0,,A crimson splitjaw?
+Dialogue: 0,0:03:15.29,0:03:17.17,Default,,0,0,0,,What's it doing this far up?!
+Dialogue: 0,0:03:21.58,0:03:22.67,Default,,0,0,0,,Nat...?!
+Dialogue: 0,0:03:22.96,0:03:24.92,Default,,0,0,0,,Oh no! Is that blood?!
+Dialogue: 0,0:03:26.67,0:03:28.00,Default,,0,0,0,,What should I do?
+Dialogue: 0,0:03:28.96,0:03:30.00,Default,,0,0,0,,Nat's...
+Dialogue: 0,0:03:30.42,0:03:32.38,Default,,0,0,0,,Nat's gonna be eaten!
+Dialogue: 0,0:03:40.42,0:03:41.25,Default,,0,0,0,,Oh crap!
+Dialogue: 0,0:03:51.33,0:03:54.96,Default,,0,0,0,,M-my arm... is it broken?!
+Dialogue: 0,0:03:54.96,0:03:55.92,Default,,0,0,0,,It's not?!
+Dialogue: 0,0:03:56.63,0:03:57.67,Default,,0,0,0,,Nat!
+Dialogue: 0,0:04:36.38,0:04:37.92,Default,,0,0,0,,Help!
+Dialogue: 0,0:05:08.71,0:05:12.00,Default,,0,0,0,,Amazing... The petrified trees are melted.
+Dialogue: 0,0:05:12.38,0:05:15.83,Default,,0,0,0,,I think... maybe somebody saved me.
+Dialogue: 0,0:05:22.71,0:05:25.21,Default,,0,0,0,,Wow, beautiful...
+Dialogue: 0,0:05:45.67,0:05:47.88,Default,,0,0,0,,H-hello there...
+Dialogue: 0,0:05:49.58,0:05:51.25,Default,,0,0,0,,No way! He's not breathing!
+Dialogue: 0,0:05:51.25,0:05:52.63,Default,,0,0,0,,He needs artificial respiration!
+Dialogue: 0,0:06:04.75,0:06:06.58,Default,,0,0,0,,What's with this texture...?
+Dialogue: 0,0:06:07.25,0:06:08.25,Default,,0,0,0,,Huh?!
+Dialogue: 0,0:06:08.96,0:06:11.29,Default,,0,0,0,,He's not human!
+Dialogue: 0,0:06:11.50,0:06:13.25,Default,,0,0,0,,A-a machine?
+Dialogue: 0,0:06:13.75,0:06:15.96,Default,,0,0,0,,Wow, this is big!
+Dialogue: 0,0:06:16.25,0:06:17.67,Default,,0,0,0,,Never seen anything like this before!
+Dialogue: 0,0:06:18.33,0:06:19.88,Default,,0,0,0,,He's still warm...
+Dialogue: 0,0:06:19.88,0:06:22.08,Default,,0,0,0,,Must've been moving until a moment ago.
+Dialogue: 0,0:06:31.50,0:06:34.92,Default,,0,0,0,,But, where did this boy come from?
+Dialogue: 0,0:08:23.71,0:08:25.58,Default,,0,0,0,,Thanks!
+Dialogue: 0,0:08:27.83,0:08:30.29,Default,,0,0,0,,Alright! Nat, just a bit more to go!
+Dialogue: 0,0:08:30.29,0:08:33.25,Default,,0,0,0,,Screw you! The hardest part is just starting now!
+Dialogue: 0,0:08:33.25,0:08:34.33,Default,,0,0,0,,What's the matter?
+Dialogue: 0,0:08:37.38,0:08:39.21,Default,,0,0,0,,Oh, it's just you, Shiggy.
+Dialogue: 0,0:08:39.21,0:08:41.08,Default,,0,0,0,,You startled me.
+Dialogue: 0,0:08:41.92,0:08:42.83,Default,,0,0,0,,Who's that?
+Dialogue: 0,0:08:42.83,0:08:44.17,Default,,0,0,0,,Don't know.
+Dialogue: 0,0:08:44.17,0:08:46.92,Default,,0,0,0,,But, for the time being I'm calling him "robot boy."
+Dialogue: 0,0:08:47.17,0:08:47.96,Default,,0,0,0,,Huh?
+Dialogue: 0,0:08:48.54,0:08:51.46,Default,,0,0,0,,I get it. So you swiped something again, Riko, huh?
+Dialogue: 0,0:08:51.46,0:08:53.50,Default,,0,0,0,,I'm just sheltering him, okay!
+Dialogue: 0,0:08:53.50,0:08:55.96,Default,,0,0,0,,Either way is fine by me...
+Dialogue: 0,0:08:57.50,0:08:59.92,Default,,0,0,0,,Ah, I knew she'd be there.
+Dialogue: 0,0:09:00.79,0:09:03.21,Default,,0,0,0,,Director, we're back home now.
+Dialogue: 0,0:09:03.42,0:09:05.33,Default,,0,0,0,,Hurry up and get inside.
+Dialogue: 0,0:09:05.71,0:09:07.92,Default,,0,0,0,,How are we gonna get past her?
+Dialogue: 0,0:09:10.25,0:09:11.54,Default,,0,0,0,,I think we can manage it.
+Dialogue: 0,0:09:11.54,0:09:12.08,Default,,0,0,0,,Huh?!
+Dialogue: 0,0:09:19.71,0:09:20.54,Default,,0,0,0,,Kiyui!
+Dialogue: 0,0:09:20.54,0:09:22.63,Default,,0,0,0,,Huh? Welcome ho-
+Dialogue: 0,0:09:22.63,0:09:24.13,Default,,0,0,0,,Shh!
+Dialogue: 0,0:09:31.29,0:09:33.21,Default,,0,0,0,,He gonna understand that?
+Dialogue: 0,0:09:33.21,0:09:34.88,Default,,0,0,0,,I hope so...
+Dialogue: 0,0:09:36.83,0:09:37.63,Default,,0,0,0,,Hm?
+Dialogue: 0,0:09:41.38,0:09:43.63,Default,,0,0,0,,Book... book...
+Dialogue: 0,0:09:49.46,0:09:51.63,Default,,0,0,0,,How many times do I need to tell you?!
+Dialogue: 0,0:09:51.88,0:09:54.13,Default,,0,0,0,,Don't read books out on the veranda!
+Dialogue: 0,0:09:54.50,0:09:57.04,Default,,0,0,0,,Drop it again and I'll take it away!
+Dialogue: 0,0:10:12.71,0:10:14.42,Default,,0,0,0,,Good work out there yesterday.
+Dialogue: 0,0:10:14.67,0:10:19.92,Default,,0,0,0,,You didn't manage to excavate all that much,\Nbut it was the first time working solo for most of you...
+Dialogue: 0,0:10:19.92,0:10:21.42,Default,,0,0,0,,so that's only to be expected.
+Dialogue: 0,0:10:21.63,0:10:22.75,Default,,0,0,0,,Once again next week,
+Dialogue: 0,0:10:22.75,0:10:26.92,Default,,0,0,0,,I'll have you base yourselves at the same site\N100 meters down and continue working.
+Dialogue: 0,0:10:27.38,0:10:30.50,Default,,0,0,0,,Those of you who lost their equipment,\Nfile a request with General Affairs.
+Dialogue: 0,0:10:30.50,0:10:31.46,Default,,0,0,0,,That is all.
+Dialogue: 0,0:10:33.25,0:10:35.63,Default,,0,0,0,,Now, a word from the director.
+Dialogue: 0,0:10:37.79,0:10:40.33,Default,,0,0,0,,There's just one thing I want to say.
+Dialogue: 0,0:10:40.33,0:10:44.21,Default,,0,0,0,,Realize that your possession of a whistle\Nis based on being a student of the guild's orphanage.
+Dialogue: 0,0:10:44.21,0:10:45.96,Default,,0,0,0,,Strive to work hard...
+Dialogue: 0,0:10:46.29,0:10:50.63,Default,,0,0,0,,so as not to shame your parents who fell so nobly.
+Dialogue: 0,0:10:50.83,0:10:52.71,Default,,0,0,0,,Ah, one more thing.
+Dialogue: 0,0:10:52.88,0:10:53.92,Default,,0,0,0,,That's two things now...
+Dialogue: 0,0:10:54.04,0:10:55.08,Default,,0,0,0,,That's two things now...
+Dialogue: 0,0:10:55.25,0:10:58.58,Default,,0,0,0,,Helping yourself to Relics is strictly forbidden.
+Dialogue: 0,0:11:02.63,0:11:04.21,Default,,0,0,0,,Is she glaring at me?
+Dialogue: 0,0:11:04.46,0:11:07.25,Default,,0,0,0,,Relics provide valuable income to the orphanage...
+Dialogue: 0,0:11:07.25,0:11:09.63,Default,,0,0,0,,So pocketing them is inexcusable.
+Dialogue: 0,0:11:09.63,0:11:11.38,Default,,0,0,0,,No matter the punishment...
+Dialogue: 0,0:11:11.96,0:11:13.71,Default,,0,0,0,,I don't want to hear any complaints!
+Dialogue: 0,0:11:13.88,0:11:15.46,Default,,0,0,0,,She knows it was me?!
+Dialogue: 0,0:11:15.79,0:11:18.71,Default,,0,0,0,,Next time, it won't stop at just being strung up naked.
+Dialogue: 0,0:11:18.71,0:11:21.21,Default,,0,0,0,,Keep that in mind. That is all.
+Dialogue: 0,0:11:21.38,0:11:22.25,Default,,0,0,0,,You're dismissed.
+Dialogue: 0,0:11:24.00,0:11:26.71,Default,,0,0,0,,She doesn't know... I'm safe.
+Dialogue: 0,0:11:27.71,0:11:28.54,Default,,0,0,0,,Riko.
+Dialogue: 0,0:11:29.25,0:11:30.50,Default,,0,0,0,,Can I talk to you for a sec?
+Dialogue: 0,0:11:31.04,0:11:36.75,Default,,0,0,0,,Nat tells me he lost his backpack\Ndue to being attacked by a crimson splitjaw...
+Dialogue: 0,0:11:36.88,0:11:38.67,Default,,0,0,0,,That's right!
+Dialogue: 0,0:11:38.67,0:11:42.63,Default,,0,0,0,,If I didn't save him, he'd be snake droppings\Nright about now. Oh, that Nat!
+Dialogue: 0,0:11:42.63,0:11:43.71,Default,,0,0,0,,You saved him?
+Dialogue: 0,0:11:43.71,0:11:48.50,Default,,0,0,0,,Yes! I blew my whistle like so\Nand made myself a decoy!
+Dialogue: 0,0:11:48.63,0:11:51.25,Default,,0,0,0,,Well, how did you get saved, then?
+Dialogue: 0,0:11:51.63,0:11:53.83,Default,,0,0,0,,That's also surprising!
+Dialogue: 0,0:11:53.83,0:11:56.38,Default,,0,0,0,,A light like none I've ever seen just-
+Dialogue: 0,0:11:58.13,0:11:59.75,Default,,0,0,0,,Ah, that was close!
+Dialogue: 0,0:11:59.75,0:12:03.13,Default,,0,0,0,,I was just about to start talking about the robot boy...
+Dialogue: 0,0:12:03.13,0:12:04.33,Default,,0,0,0,,Well, whatever.
+Dialogue: 0,0:12:04.83,0:12:09.46,Default,,0,0,0,,Even at a relatively safe 100 meters,\Nyou never know what's going to happen...
+Dialogue: 0,0:12:09.75,0:12:12.17,Default,,0,0,0,,From now on, don't let your guard down.
+Dialogue: 0,0:12:15.88,0:12:16.96,Default,,0,0,0,,Leader!
+Dialogue: 0,0:12:18.21,0:12:19.83,Default,,0,0,0,,U-um...
+Dialogue: 0,0:12:22.21,0:12:23.75,Default,,0,0,0,,I have a favor to ask!
+Dialogue: 0,0:12:23.75,0:12:27.04,Default,,0,0,0,,Please assign me to somewhere deeper!
+Dialogue: 0,0:12:27.67,0:12:31.58,Default,,0,0,0,,I thought I told you I'd consider it\Nif your haul was assessed to be the most valuable!
+Dialogue: 0,0:12:32.63,0:12:36.83,Default,,0,0,0,,First, develop some skills that allow you\Nto cave-raid more efficiently.
+Dialogue: 0,0:12:37.50,0:12:41.29,Default,,0,0,0,,I... want to quickly build up experience at deeper depths.
+Dialogue: 0,0:12:41.29,0:12:45.58,Default,,0,0,0,,I want to become a White Whistle as soon as I can...\Nand catch up with my mother!
+Dialogue: 0,0:12:46.71,0:12:48.83,Default,,0,0,0,,I'll go down as deep as she has and-
+Dialogue: 0,0:12:48.83,0:12:49.58,Default,,0,0,0,,You can't!
+Dialogue: 0,0:12:50.71,0:12:54.42,Default,,0,0,0,,To begin with, if you were to go down 400 meters\Nwith your current level of experience,
+Dialogue: 0,0:12:54.42,0:12:57.54,Default,,0,0,0,,simply heading back up again\Nwould be all you could handle!
+Dialogue: 0,0:12:57.54,0:13:00.79,Default,,0,0,0,,For the time being, keep your head down and work hard.
+Dialogue: 0,0:13:07.29,0:13:08.63,Default,,0,0,0,,Well...
+Dialogue: 0,0:13:09.08,0:13:11.88,Default,,0,0,0,,That's too bad, Miss Saved-My-Life!
+Dialogue: 0,0:13:12.33,0:13:15.63,Default,,0,0,0,,What of it?! Eavesdropping like that isn't cool!
+Dialogue: 0,0:13:15.96,0:13:19.33,Default,,0,0,0,,More importantly, Riko, what are you going to do\Nabout that thing in your room?
+Dialogue: 0,0:13:19.33,0:13:20.67,Default,,0,0,0,,The robot?
+Dialogue: 0,0:13:21.17,0:13:22.67,Default,,0,0,0,,I'll wake him up, of course.
+Dialogue: 0,0:13:22.67,0:13:24.21,Default,,0,0,0,,He's sleeping? Really?!
+Dialogue: 0,0:13:24.21,0:13:26.50,Default,,0,0,0,,Yep! We've gotta hurry and wake him!
+Dialogue: 0,0:13:26.71,0:13:29.33,Default,,0,0,0,,So, help me out, everybody!
+Dialogue: 0,0:13:31.50,0:13:32.58,Default,,0,0,0,,So? How's that?
+Dialogue: 0,0:13:32.58,0:13:34.21,Default,,0,0,0,,I think maybe he moved a little.
+Dialogue: 0,0:13:34.21,0:13:35.21,Default,,0,0,0,,Really?!
+Dialogue: 0,0:13:35.42,0:13:37.38,Default,,0,0,0,,Is someone there?
+Dialogue: 0,0:13:37.54,0:13:39.67,Default,,0,0,0,,Maybe we should try turning up the power a little bit?
+Dialogue: 0,0:13:39.67,0:13:39.92,Default,,0,0,0,,The voices of children?\NMaybe we should try turning up the power a little bit?
+Dialogue: 0,0:13:39.92,0:13:41.08,Default,,0,0,0,,The voices of children?\NYeah, good idea. Riko, set the dial to 2.
+Dialogue: 0,0:13:41.08,0:13:42.67,Default,,0,0,0,,Yeah, good idea. Riko, set the dial to 2.
+Dialogue: 0,0:13:42.67,0:13:43.63,Default,,0,0,0,,I'm on it!
+Dialogue: 0,0:13:45.00,0:13:46.29,Default,,0,0,0,,Whatever...
+Dialogue: 0,0:13:46.88,0:13:47.79,Default,,0,0,0,,I'll sleep... a bit longer...
+Dialogue: 0,0:13:47.79,0:13:48.71,Default,,0,0,0,,Done!\NI'll sleep... a bit longer...
+Dialogue: 0,0:13:48.71,0:13:49.88,Default,,0,0,0,,I'll sleep... a bit longer...
+Dialogue: 0,0:13:50.71,0:13:52.50,Default,,0,0,0,,So, Shiggy, can I press it now?
+Dialogue: 0,0:13:53.29,0:13:55.29,Default,,0,0,0,,Riko, isn't it actually set on 20?
+Dialogue: 0,0:13:55.29,0:13:55.96,Default,,0,0,0,,Huh?
+Dialogue: 0,0:14:07.21,0:14:09.29,Default,,0,0,0,,H-he's up!
+Dialogue: 0,0:14:11.38,0:14:12.54,Default,,0,0,0,,Seriously?!
+Dialogue: 0,0:14:13.33,0:14:16.46,Default,,0,0,0,,See! I told you that electricity would do the trick!
+Dialogue: 0,0:14:16.46,0:14:19.17,Default,,0,0,0,,And who was the one who fed him hot coals earlier?
+Dialogue: 0,0:14:20.00,0:14:22.67,Default,,0,0,0,,Hey, hey, Robot Boy, do you recognize me?
+Dialogue: 0,0:14:22.67,0:14:24.46,Default,,0,0,0,,You saved me!
+Dialogue: 0,0:14:24.63,0:14:27.33,Default,,0,0,0,,How did you attack that snake from so far away?
+Dialogue: 0,0:14:27.33,0:14:29.88,Default,,0,0,0,,Ah, but first, tell me your name!
+Dialogue: 0,0:14:30.04,0:14:33.29,Default,,0,0,0,,Hey, don't get carried away! He looks overwhelmed...
+Dialogue: 0,0:14:33.46,0:14:36.79,Default,,0,0,0,,Ah, I'm sorry. My name's Riko!
+Dialogue: 0,0:14:36.79,0:14:39.88,Default,,0,0,0,,I feel bad about replying to a question\Nwith a question, but...
+Dialogue: 0,0:14:41.54,0:14:43.04,Default,,0,0,0,,He spoke!
+Dialogue: 0,0:14:43.04,0:14:44.67,Default,,0,0,0,,How cute!
+Dialogue: 0,0:14:44.67,0:14:46.00,Default,,0,0,0,,There's something I want to ask...
+Dialogue: 0,0:14:46.38,0:14:48.54,Default,,0,0,0,,What? What? Ask whatever you want!
+Dialogue: 0,0:14:48.54,0:14:50.75,Default,,0,0,0,,Where... is this place?
+Dialogue: 0,0:14:50.75,0:14:51.50,Default,,0,0,0,,Here?
+Dialogue: 0,0:14:52.17,0:14:54.79,Default,,0,0,0,,This is my room! In Belchero Orphanage.
+Dialogue: 0,0:14:57.00,0:14:59.96,Default,,0,0,0,,Do you guys work as torturers?
+Dialogue: 0,0:14:59.96,0:15:00.88,Default,,0,0,0,,Huh?
+Dialogue: 0,0:15:00.88,0:15:03.42,Default,,0,0,0,,Riko's room is actually an old execution chamber.
+Dialogue: 0,0:15:03.42,0:15:05.79,Default,,0,0,0,,She got up to too much mischief and was moved here.
+Dialogue: 0,0:15:06.75,0:15:09.67,Default,,0,0,0,,Anyway, we work as cave raiders.
+Dialogue: 0,0:15:09.67,0:15:12.29,Default,,0,0,0,,Well, strictly speaking,\Nwe're apprentices called Red Whistles.
+Dialogue: 0,0:15:12.88,0:15:15.92,Default,,0,0,0,,Hey, hey, Robot Boy, what's your name?
+Dialogue: 0,0:15:15.92,0:15:19.42,Default,,0,0,0,,What kind of stuff can you do? Who made you?
+Dialogue: 0,0:15:23.25,0:15:25.54,Default,,0,0,0,,It's been on my mind for a bit now, but...
+Dialogue: 0,0:15:25.71,0:15:26.63,Default,,0,0,0,,Yeah?
+Dialogue: 0,0:15:26.63,0:15:29.29,Default,,0,0,0,,I'm... a robot?
+Dialogue: 0,0:15:31.04,0:15:32.42,Default,,0,0,0,,You're a robot!
+Dialogue: 0,0:15:32.42,0:15:33.92,Default,,0,0,0,,Electricity made you move!
+Dialogue: 0,0:15:34.04,0:15:35.63,Default,,0,0,0,,You totally withstood fire!
+Dialogue: 0,0:15:35.63,0:15:38.00,Default,,0,0,0,,And there's not a single scratch on you!
+Dialogue: 0,0:15:38.96,0:15:42.29,Default,,0,0,0,,So, uh... you don't even remember that you're a robot?
+Dialogue: 0,0:15:42.29,0:15:45.00,Default,,0,0,0,,Maybe that jolt of electricity messed with his memory?
+Dialogue: 0,0:15:45.58,0:15:46.92,Default,,0,0,0,,Everyone, this is bad!
+Dialogue: 0,0:15:47.13,0:15:49.75,Default,,0,0,0,,The lights are out throughout the whole orphanage!
+Dialogue: 0,0:15:49.75,0:15:50.67,Default,,0,0,0,,What?!
+Dialogue: 0,0:15:50.67,0:15:53.17,Default,,0,0,0,,I think we overdid it by going full throttle earlier.
+Dialogue: 0,0:15:53.71,0:15:57.17,Default,,0,0,0,,Hide quick! Leader is headed straight over here!
+Dialogue: 0,0:15:57.17,0:15:59.00,Default,,0,0,0,,Huh?! How does he know it was us?!
+Dialogue: 0,0:15:59.00,0:16:00.83,Default,,0,0,0,,Probably 'cause you're always pulling stuff.
+Dialogue: 0,0:16:00.83,0:16:02.21,Default,,0,0,0,,Can you stand?
+Dialogue: 0,0:16:02.21,0:16:03.92,Default,,0,0,0,,Suppose we've gotta get that off you first...
+Dialogue: 0,0:16:05.17,0:16:06.17,Default,,0,0,0,,Riko!
+Dialogue: 0,0:16:08.67,0:16:09.46,Default,,0,0,0,,Huh?!
+Dialogue: 0,0:16:09.63,0:16:11.67,Default,,0,0,0,,Riko! Distract him best you can!
+Dialogue: 0,0:16:11.67,0:16:12.79,Default,,0,0,0,,I've got a bad feeling...
+Dialogue: 0,0:16:12.79,0:16:13.88,Default,,0,0,0,,Huh?
+Dialogue: 0,0:16:14.33,0:16:15.29,Default,,0,0,0,,Huh?!
+Dialogue: 0,0:16:19.92,0:16:22.00,Default,,0,0,0,,Don't come out of there! Got it?
+Dialogue: 0,0:16:22.00,0:16:23.63,Default,,0,0,0,,We'll be in a world of trouble if you do!
+Dialogue: 0,0:16:23.63,0:16:25.54,Default,,0,0,0,,Hey, Riko! Open up!
+Dialogue: 0,0:16:25.96,0:16:27.33,Default,,0,0,0,,O-okay!
+Dialogue: 0,0:16:27.96,0:16:29.00,Default,,0,0,0,,Coming no-!
+Dialogue: 0,0:16:29.21,0:16:30.21,Default,,0,0,0,,Ow...!
+Dialogue: 0,0:16:36.38,0:16:38.96,Default,,0,0,0,,So, what the heck did you do this time?
+Dialogue: 0,0:16:38.96,0:16:42.08,Default,,0,0,0,,Huh? Nothing... much really...
+Dialogue: 0,0:16:42.33,0:16:46.79,Default,,0,0,0,,Ah, m-more importantly, I just banged my foot.
+Dialogue: 0,0:16:46.79,0:16:48.17,Default,,0,0,0,,Caught it at a bad angle, too.
+Dialogue: 0,0:16:48.17,0:16:50.21,Default,,0,0,0,,I-it hurts really bad...
+Dialogue: 0,0:16:50.21,0:16:52.71,Default,,0,0,0,,I bumped it just the wrong way...
+Dialogue: 0,0:16:53.33,0:16:53.96,Default,,0,0,0,,Wai...!
+Dialogue: 0,0:16:58.88,0:16:59.42,Default,,0,0,0,,Huh?!
+Dialogue: 0,0:16:59.42,0:17:01.50,Default,,0,0,0,,So this here is Shiggy's handiwork?
+Dialogue: 0,0:17:01.50,0:17:03.63,Default,,0,0,0,,Once again, no idea what he's up to...
+Dialogue: 0,0:17:05.17,0:17:07.50,Default,,0,0,0,,Hey, do you have anything to say for yourself?
+Dialogue: 0,0:17:07.88,0:17:10.75,Default,,0,0,0,,S-sorry. I won't do it again.
+Dialogue: 0,0:17:11.13,0:17:14.75,Default,,0,0,0,,I know you're frustrated given that\Nyour cave raiding didn't go so well...
+Dialogue: 0,0:17:15.17,0:17:20.13,Default,,0,0,0,,That said, there's simply no sense\Nin causing a blackout at the orphanage.
+Dialogue: 0,0:17:20.92,0:17:21.92,Default,,0,0,0,,Riko...?
+Dialogue: 0,0:17:22.63,0:17:24.54,Default,,0,0,0,,You listening to me, Riko?
+Dialogue: 0,0:17:28.54,0:17:31.25,Default,,0,0,0,,Before I hear your explanation for this mess,
+Dialogue: 0,0:17:31.25,0:17:35.38,Default,,0,0,0,,I think I'll have you clean the orphanage\Nand write a sincere apology.
+Dialogue: 0,0:17:35.38,0:17:36.21,Default,,0,0,0,,Huh?
+Dialogue: 0,0:17:36.50,0:17:39.88,Default,,0,0,0,,Ah... I'm sorry!
+Dialogue: 0,0:17:43.67,0:17:45.13,Default,,0,0,0,,I get it now.
+Dialogue: 0,0:17:45.13,0:17:48.29,Default,,0,0,0,,If he was to find me here, there'd be hell to pay...
+Dialogue: 0,0:17:51.88,0:17:54.54,Default,,0,0,0,,Nevertheless, my arm can extend...
+Dialogue: 0,0:17:56.83,0:17:59.04,Default,,0,0,0,,I've got an extending metal arm...
+Dialogue: 0,0:17:59.38,0:18:00.63,Default,,0,0,0,,and this helmet...
+Dialogue: 0,0:18:03.46,0:18:05.42,Default,,0,0,0,,Talk about suspicious...
+Dialogue: 0,0:18:09.29,0:18:11.33,Default,,0,0,0,,What exactly am I?
+Dialogue: 0,0:18:13.96,0:18:16.79,Default,,0,0,0,,Does a robot really need a belly button?
+Dialogue: 0,0:18:17.54,0:18:18.33,Default,,0,0,0,,Huh?!
+Dialogue: 0,0:18:18.33,0:18:20.17,Default,,0,0,0,,D-do I need this thing, too?
+Dialogue: 0,0:18:21.08,0:18:22.00,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:18:22.46,0:18:23.54,Default,,0,0,0,,Shh!
+Dialogue: 0,0:18:26.17,0:18:29.25,Default,,0,0,0,,I took the chance to sneak away\Nwhen Shiggy and the others got caught.
+Dialogue: 0,0:18:29.63,0:18:32.58,Default,,0,0,0,,Oh, what now? You getting all dressed up\Nin front of the mirror?
+Dialogue: 0,0:18:32.79,0:18:34.42,Default,,0,0,0,,Uh, n-no...
+Dialogue: 0,0:18:34.42,0:18:35.50,Default,,0,0,0,,Riko!
+Dialogue: 0,0:18:37.08,0:18:37.67,Default,,0,0,0,,Riko! Where'd you go?!
+Dialogue: 0,0:18:37.67,0:18:39.08,Default,,0,0,0,,C-crap!\NRiko! Where'd you go?!
+Dialogue: 0,0:18:39.08,0:18:39.79,Default,,0,0,0,,Riko! Where'd you go?!
+Dialogue: 0,0:18:39.96,0:18:42.46,Default,,0,0,0,,What are we gonna do?! We need to get outta here!
+Dialogue: 0,0:18:43.54,0:18:44.92,Default,,0,0,0,,Grab onto me!
+Dialogue: 0,0:18:45.29,0:18:45.96,Default,,0,0,0,,Quick!
+Dialogue: 0,0:18:59.58,0:19:01.88,Default,,0,0,0,,Amazing! What a handy hand!
+Dialogue: 0,0:19:03.96,0:19:05.58,Default,,0,0,0,,How cool!
+Dialogue: 0,0:19:05.83,0:19:07.92,Default,,0,0,0,,Riko, where'd you go?!
+Dialogue: 0,0:19:07.92,0:19:10.00,Default,,0,0,0,,Doesn't look like things\Nare gonna calm down anytime soon.
+Dialogue: 0,0:19:10.50,0:19:11.46,Default,,0,0,0,,Oh, right!
+Dialogue: 0,0:19:11.46,0:19:13.63,Default,,0,0,0,,Reg, there's something I've been wanting to show you.
+Dialogue: 0,0:19:13.63,0:19:14.71,Default,,0,0,0,,"Reg"?
+Dialogue: 0,0:19:14.71,0:19:15.92,Default,,0,0,0,,That's your name.
+Dialogue: 0,0:19:15.92,0:19:17.96,Default,,0,0,0,,Not having one is pretty inconvenient, right?
+Dialogue: 0,0:19:17.96,0:19:19.83,Default,,0,0,0,,So what do you think of the name "Reg"?
+Dialogue: 0,0:19:20.08,0:19:23.00,Default,,0,0,0,,I don't mind it, but... how'd you come up with it, anyway?
+Dialogue: 0,0:19:23.38,0:19:25.58,Default,,0,0,0,,It was the name of a dog I used to have.
+Dialogue: 0,0:19:26.13,0:19:27.13,Default,,0,0,0,,A dog...
+Dialogue: 0,0:19:27.92,0:19:30.63,Default,,0,0,0,,Reg, hurry, come quick!
+Dialogue: 0,0:19:42.88,0:19:44.17,Default,,0,0,0,,We're here!
+Dialogue: 0,0:19:47.21,0:19:49.29,Default,,0,0,0,,It's almost time now, Reg!
+Dialogue: 0,0:20:10.92,0:20:14.04,Default,,0,0,0,,Reg, this is the city all of us live in.
+Dialogue: 0,0:20:14.42,0:20:16.79,Default,,0,0,0,,The city of the great pit. It's called Orth!
+Dialogue: 0,0:20:17.54,0:20:19.92,Default,,0,0,0,,Welcome to Orth, Reg!
+Dialogue: 0,0:20:30.88,0:20:32.29,Default,,0,0,0,,So this pit...?
+Dialogue: 0,0:20:32.29,0:20:33.08,Default,,0,0,0,,Huh?
+Dialogue: 0,0:20:33.54,0:20:36.33,Default,,0,0,0,,Reg, you've even forgotten about the Abyss?!
+Dialogue: 0,0:20:36.71,0:20:37.79,Default,,0,0,0,,"Abyss"?
+Dialogue: 0,0:20:37.79,0:20:39.58,Default,,0,0,0,,This great pit is called the Abyss.
+Dialogue: 0,0:20:39.58,0:20:42.58,Default,,0,0,0,,And I found you in the depths of the Abyss!
+Dialogue: 0,0:20:43.54,0:20:44.33,Default,,0,0,0,,I...
+Dialogue: 0,0:20:45.42,0:20:47.17,Default,,0,0,0,,I thought that...
+Dialogue: 0,0:20:47.46,0:20:50.33,Default,,0,0,0,,maybe you came up from the bottom of the Abyss, Reg!
+Dialogue: 0,0:20:50.50,0:20:51.25,Default,,0,0,0,,Huh?
+Dialogue: 0,0:20:51.54,0:20:55.00,Default,,0,0,0,,I mean, I've never seen any kind of robot like you before!
+Dialogue: 0,0:20:55.33,0:20:56.63,Default,,0,0,0,,That's gotta be right!
+Dialogue: 0,0:20:57.13,0:21:00.17,Default,,0,0,0,,You must've come from the bottom of the Abyss,\Nwhich no one has ever seen...
+Dialogue: 0,0:21:02.00,0:21:03.00,Default,,0,0,0,,The Abyss...
+Dialogue: 0,0:21:06.21,0:21:09.04,Default,,0,0,0,,About 1,900 years ago,
+Dialogue: 0,0:21:09.04,0:21:14.13,Default,,0,0,0,,a huge pit was discovered on a remote island\Nin the southern sea of Beoluska.
+Dialogue: 0,0:21:14.92,0:21:20.42,Default,,0,0,0,,With a diameter of around 1,000 meters\Nand a depth that is still unknown to this day,
+Dialogue: 0,0:21:21.00,0:21:24.50,Default,,0,0,0,,the mysterious formation mesmerized people.
+Dialogue: 0,0:21:25.42,0:21:31.38,Default,,0,0,0,,Valuable and dangerous primeval creatures and\Nmysterious Relics that are beyond comprehension
+Dialogue: 0,0:21:31.38,0:21:38.96,Default,,0,0,0,,beckoned adventurers looking to strike it rich,\Nwhich in time gave rise to a giant city.
+Dialogue: 0,0:21:40.54,0:21:42.46,Default,,0,0,0,,Over the span of many years,
+Dialogue: 0,0:21:42.46,0:21:46.13,Default,,0,0,0,,with a spirit of adventure for the unknown\Nand countless legends luring them in,
+Dialogue: 0,0:21:46.13,0:21:52.33,Default,,0,0,0,,the world's only remaining unexplored chasm\Nhas swallowed up a great many people.
+Dialogue: 0,0:21:52.33,0:21:55.46,Default,,0,0,0,,It is known as the Abyss.
